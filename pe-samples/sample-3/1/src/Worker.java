@@ -6,7 +6,7 @@ public class Worker extends Person{
         super(name);
         this.salary = salary;
         this.departmentName = deptName;
-        //your code goes here     
+        //your code goes here 
     }
     
     public String getName() { return this.name; }
